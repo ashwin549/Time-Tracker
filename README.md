@@ -17,7 +17,7 @@ A powerful yet lightweight **TimeTracker** application built using Python and Py
 1. Clone the repository:
     ```bash
     git clone https://github.com/ashwin549/Time-Tracker.git
-    cd timetracker
+    cd Time-Tracker
     ```
 
 2. Install dependencies:
