@@ -225,7 +225,7 @@ class TimeTrackerWindow(QMainWindow):
 
 def main():
     app = QApplication(sys.argv)
-    app.setStyle('Fusion')  # Modern looking style
+    app.setStyle('Fusion') 
     
     window = TimeTrackerWindow()
     window.show()
