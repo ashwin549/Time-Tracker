@@ -1,0 +1,20 @@
+# Core GUI Framework
+PyQt6==6.6.1
+PyQt6-Qt6==6.6.1
+PyQt6-sip==13.6.0
+
+# System Monitoring
+psutil==5.9.8
+pywin32==306; platform_system == "Windows"
+
+# Development & Packaging Tools
+pyinstaller==6.3.0
+black==24.1.1  # Code formatting
+flake8==7.0.0  # Code linting
+pytest==7.4.4  # Testing
+
+# Optional - For Future Features
+# pandas==2.2.0  # For data analysis
+# openpyxl==3.1.2  # For Excel export
+# SQLAlchemy==2.0.25  # For database support
+# PyQtChart==6.6.1  # For charts/graphs
